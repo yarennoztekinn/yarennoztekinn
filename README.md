@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Yaren 👋
 
-<!--
-**yarennoztekinn/yarennoztekinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student at Muğla Sıtkı Koçman University, passionate about learning and growing in the tech world. My GitHub is a collection of my journey—featuring personal projects, university assignments, and tutorials I've explored to deepen my understanding of algorithms and programming principles.
 
-Here are some ideas to get you started:
+So far, I've gained experience with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python for programming fundamentals,
+- Java for object-oriented programming,
+- C for data structures and algorithm design.
+  
+In a recent university group project, I took on the role of a backend developer, where I worked with the Spring Framework to build a collaborative platform. Exploring new frameworks and programming languages is my way of staying curious and evolving in this field.
+
+Feel free to check out my projects, and don't hesitate to connect or share feedback. Let's learn and grow together! 🚀
