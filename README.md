@@ -10,11 +10,17 @@ I'm a Software Engineering student at Muğla Sıtkı Koçman University, passion
 
 So far, I've gained experience with:
 
-- Python for programming fundamentals,  
-- Java for object-oriented programming,  
-- C for data structures and algorithm design.  
+- Backend Development (Java & Spring Boot): Developed two backend projects using the Spring Boot framework, utilizing PostgreSQL for robust database management.
 
-In a recent university group project, I took on the role of a backend developer, where I worked with the Spring Framework to build a collaborative platform. Exploring new frameworks and programming languages is my way of staying curious and evolving in this field.
+- Backend Development (Go): Built a complete backend system from scratch using the Go Fiber framework. Integrated Redis, Docker Compose, MVC architecture, and JWT authentication for secure and scalable performance.
+
+- Containerization & Python (Django): Developed a backend project with the Django framework, implementing Docker container configuration for streamlined deployment.
+
+- Machine Learning & Deep Learning: Built and trained models using TensorFlow, Keras, and Scikit-learn. Successfully completed an end-to-end machine learning project, covering all   stages from data processing to model deployment.
+
+- Reinforcement Learning: Designed a Multi-Agent Reinforcement Learning project using Tabular Q-learning, featuring a custom visualization built with Pygame.
+
+- Computer Vision: Currently contributing to an image processing project utilizing OpenCV and MediaPipe libraries for real-time analysis.
 
 Feel free to check out my projects, and don't hesitate to connect or share feedback. Let's learn and grow together! 🚀
 
