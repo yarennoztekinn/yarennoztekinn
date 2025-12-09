@@ -22,7 +22,7 @@ So far, I've gained experience with:
 
 - Computer Vision: Currently contributing to an image processing project utilizing OpenCV and MediaPipe libraries for real-time analysis.
 
-Feel free to check out my projects, and don't hesitate to connect or share feedback. Let's learn and grow together! 🚀
+Feel free to check out my projects, and don't hesitate to connect or share feedback.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/yaren-öztekin-287975257/" target="_blank">
