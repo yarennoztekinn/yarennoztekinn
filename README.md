@@ -20,7 +20,7 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 I'm a Software Engineering student at **Muğla Sıtkı Koçman University**, with a strong focus on **Data Science** and **Machine Learning**. I'm passionate about transforming raw data into meaningful insights and building end-to-end ML systems — from data collection and preprocessing all the way to model training and deployment.
 
@@ -28,7 +28,7 @@ My GitHub reflects my learning journey: personal projects, university work, and 
 
 ---
 
-## 🧠 What I Work On
+## What I Work On
 
 **Machine Learning & Deep Learning**
 Built and trained models using **TensorFlow**, **Keras**, and **Scikit-learn**. Completed a full end-to-end ML project covering every stage from data processing and feature engineering to model deployment.
@@ -47,7 +47,7 @@ Experience with **Docker**, **Docker Compose**, and **Kubernetes** for container
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -67,8 +67,11 @@ Experience with **Docker**, **Docker Compose**, and **Kubernetes** for container
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=yarennoztekinn&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/yarennoztekinn?cardType=level&theme=tokyonight" alt="My Awesome Stats" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=yarennoztekinn&theme=tokyonight" alt="GitHub Streak" height="150" />
+  <br />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yarennoztekinn&layout=compact&hide=html,css,javascript&theme=tokyonight" alt="Top Langs" height="150" />
 </div>
